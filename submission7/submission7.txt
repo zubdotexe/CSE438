@@ -1,7 +1,11 @@
-YouTube video link:
+YouTube video link: 
+https://youtu.be/B3_eHGkX3Sw
 
 Slide:
 https://docs.google.com/presentation/d/1ize1BFKRaXBxKuWwdbr3c0uXtBf8wvpzhT1stpx-GsA/edit?usp=sharing
+
+Overleaf link with edit access to ST, RA and my gmail.
+https://www.overleaf.com/read/bxpkyznrzpgm
 
 Conference Name:
 The 7th Asian Conference on Pattern Recognition (ACPR2023)
