@@ -1,1 +1,32 @@
+YouTube video link:
 
+Slide:
+https://docs.google.com/presentation/d/1ize1BFKRaXBxKuWwdbr3c0uXtBf8wvpzhT1stpx-GsA/edit?usp=sharing
+
+Conference Name:
+The 7th Asian Conference on Pattern Recognition (ACPR2023)
+
+Conference URL:
+https://ericlab.org/acpr2023/
+
+Paper submitted on:
+10 May, 2023
+
+Paper submission ID: 
+8639
+
+Paper title:
+Grape and Bell Pepper leaf disease classification using CNN
+
+Paper link:
+https://github.com/zubdotexe/CSE438/blob/main/submission6/2023_Spring_Grape_and_Bell_Pepper_leaf_disease_classification_using_CNN.pdf
+
+Group Name: 
+Mirai 
+
+Group Number:
+12
+
+Group Members:
+19101147 Ahmad Zubair
+19301074 Sharmin Akter Keya
